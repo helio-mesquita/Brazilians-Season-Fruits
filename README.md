@@ -6,7 +6,7 @@ Web aplication developted for discover the fruits on the season in Brazil by day
 Aplicativo web desenvolvido para descobrir as frutas das estação no Brasil por dia, por mês ou por período de meses. As informações acerca das frutas e suas fotos foram baixadas da internet, todos os créditos estão asseguir e não foram pretendidos nenhum dano aos direitos autorais.
 
 Information base
-Information about fruits and this seasons is in that article in Cevisa site:
+Information about fruits and this seasons is in that article on Cevisa site:
 https://cevisa.org.br/portal/descubra-quais-sao-as-frutas-legumes-e-verduras-de-cada-estacao/
 
 Icon Credits
