@@ -1,0 +1,169 @@
+1. Abacaxi (Mês de começo: 8 - Mês Final: 0) (Mês de Começo:2 - Mês Final: 2;
+2. Carambola (Mês de começo: 0 - Mês Final: 1) (Mês de começo: 5 - Mês Final: 7);
+3. Coco Verde (Mês de começo: 10 - Mês Final: 2) 
+4. Figo (Mês de começo: 11 - Mês Final: 2)
+5. Framboesa (Mês de começo: 10 - Mês Final: 0) 
+6. Fruta do Conde (Mês de começo: 0 - Mês final: 2)
+7. Laranja-Pera (Mês de Começo: 8 - Mês Final: 0);
+8. Mamão (Mês de Começo: 0 - Mês Final: 0) (Mês de Começo: 2 - Mês Final: 3) (Mês de Começo: 7 - Mês Final: 7) (Mês de Começo: 9 - Mês Final: 10);
+9. Maracujá (Mês de Começo 10 - Mês Final: 0);
+10. Melancia (Mês de Começo 10 - Mês Final: 0);
+11. Nectarina (Mês de Começo 10 - Mês Final: 0) (Mês de Começo: 2 - Mês de Final: 2)
+12. Uva (Mês de Começo: 11 - Mês Final: 4)
+13. Abacate (Mês de Começo: 1 - Mês Final: 4)
+14. Ameixa (Mês de Começo: 1 - Mês Final: 3) (Mês de Começo: 11 - Mês Final: 11);
+15. Goiaba (Mês de Começo: 1 - Mês Final: 2);
+16. Jaca (Mês de Começo: 1 - Mês Final: 4) (Mês de Começo: 10 - Mês Final: 10);
+17. Maçã (Mês de Começo: 1 - Mês Final: 4) (Mês de Começo: 7 - Mês Final: 11);
+18. Pera (Mês de Começo: 1 - Mês Final: 4);
+19. Pêssego (Mês de Começo: 1 - Mês Final: 2) (Mês de Começo: 10 - Mês Final: 11);
+20. Seriguela (Mês de Começo: 1 - Mês Final: 2);
+21. Banana-maçã (Mês de Começo: 2 - Mês Final: 4);
+22. Banana-nanica (Mês de Começo: 2 - Mês Final: 2) (Mês de Começo: 7 - Mês Final: 10);
+23. Limão (Mês de Começo: 2 - Mês Final: 2) (Mês de Começo: 11 - Mês Final: 11);
+24. Mangostão (Mês de Começo: 2 - Mês Final: 2) (Mês de Começo: 5 - Mês Final: 5);
+25. Tangerina (Mês de Começo: 2 - Mês Final: 10);
+26. Caqui (Mês de Começo: 3 - Mês Final: 4);
+27. Cidra (Mês de Começo: 3 - Mês Final: 4);
+28. Kiwi (Mês de Começo: 3 - Mês Final: 7) (Mês de Começo: 11 - Mês Final: 11);
+29. Laranja-lima (Mês de Começo: 5 - Mês Final: 6) (Mês de Começo: 8 - Mês Final: 8);
+30. Marmelo (Mês de Começo: 5 - Mês Final: 5);
+31. Mexerica (Mês de Começo: 5 - Mês Final: 8):
+32. Caju (Mês de Começo: 7 - Mês Final: 10);
+33. Lima (Mês de Começo: 7 - Mês Final: 7) (Mês de Começo: 9 - Mês Final: 9);
+34. Morango (Mês de Começo: 7 - Mês Final: 7);
+35. Jabuticaba (Mês de Começo: 8 - Mês de Final: 9)
+36. Nêspera (Mês de Começo: 8 - Mês Final: 9);
+37. Tamarindo (Mês de Começo 8 - Mês Final: 8);
+38. Acerola (Mês de Começo: 9 - Mês Final: 10);
+39. Banana-prata (Mês de Começo: 9 - Mês Final: 11);
+40. Manga (Mês de Começo: 9 - Mês Final: 11);
+41. Melão (Mês de Começo: 10 - Mês Final: 11);
+42. Cereja (Mês de Começo: 11 - Mês Final: 11);
+43. Damasco (Mês de Começo: 11 - Mês Final: 11);
+44. Graviola (Mês de Começo: 11 - Mês Final: 11);
+45. Lichia (Mês de Começo: 11 - Mês Final: 11);
+46. Romã (Mês de Começo: 11 - Mês Final: 11);
+
+Fonte das Imagens:
+Marmelo: </br>
+https://www.sementeorganica.com/produto/marmelo-japao-chaenomeles-japonica-brinde.html </br> </br>
+Carambola: </br>
+https://www.superkoch.com.br/produto/14062/carambola-kg </br></br>
+Figo: </br>
+https://antigo.zonasul.com.br/figo-roxo-bandeja/4710/p </br></br>
+Framboesa: </br>
+https://www.angeloni.com.br/super/p/framboesa-importada-berry-good-125g-3035135 </br></br>
+Fruta do Conde: </br>
+https://www.chicogranjeiro.eco.br/produtos/pinha-ou-fruta-do-conde-kg/ </br></br>
+Laranja-Pera: </br>
+https://www.cenourao.com.br/produto/93323-laranja-pera-rio-12-unidades/ </br></br>
+Maracuja: </br>
+https://www.chicogranjeiro.eco.br/produtos/maracuja-kg/ </br></br>
+Melancia: </br>
+https://www.macsupermercados.com.br/produto/melancia-kg/ </br></br>
+Nectarina: </br>
+https://www.proativaalimentos.com.br/nectarina </br></br>
+Uva: </br>
+https://www.chicogranjeiro.eco.br/produtos/uva-sem-semente-isis-kg/ </br></br>
+Abacate: </br>
+https://onisafra.com/manaus/feira/feiras/atacadaodasfrutas/abacate-margarida-kg/ </br></br>
+Ameixa: </br>
+https://www.cenourao.com.br/produto/91312-ameixa-americana-500g/ </br></br>
+Goiaba: </br>
+https://www.cenourao.com.br/produto/77231-goiaba-vermelha-4-unidades/ </br></br>
+Jaca: </br>
+https://www.exotic-seeds.store/pt/home/sementes-de-jaqueira-jaca.html </br></br>
+Maçã: </br>
+https://www.chicogranjeiro.eco.br/produtos/maca-argentina-kg/ </br></br>
+Pera: </br>
+https://br.depositphotos.com/stock-photos/pera.html </br></br>
+Pêssego: </br>
+https://www.magazineluiza.com.br/manteiga-de-pessego-cosmetica-100g-prunus-persica-essencial/p/hf6gk2242h/pf/mtgc/ </br></br>
+Seriguela: </br>
+https://www.verdulero.com.br/seriguela/prod-7747474/ </br></br>
+Banana-Maçã: </br>
+https://www.coopfas.com/produto/banana-maca-kg/ </br></br>
+Banana-Nanica: </br>
+https://saborizatti.com.br/produto/banana-nanica-duzia/ </br></br>
+Limão: </br>
+https://www.dancruzplantas.com.br/muda-de-limao-taiti-enxertada </br></br>
+Tangerina: </br>
+https://www.deangelina.com.br/produto/1774/tangerina-ponkan-kg </br></br>
+Caqui: </br>
+http://cunhacomerciodefrutas.com.br/product/caqui/ </br></br>
+Cidra: </br>
+http://www.ceasacampinas.com.br/dicas/cidra </br></br>
+Kiwi: </br>
+https://organicosdafatima.com.br/produto/kiwi-organico-350g/ </br></br>
+Mexerica: </br>
+https://www.pedefrutadelivery.com.br/product/mexerica/ </br></br>
+Caju: </br>
+http://jjalimentos.com.br/shop/caju </br></br>
+Lima: </br>
+https://irmaospatrocinio.com.br/feira/frutas/limao/3671/lima-da-persia.html </br></br>
+Morango: </br>
+https://www.proativaalimentos.com.br/morango </br></br>
+Jabuticaba: </br>
+https://www.sementeorganica.com/produto/muda-de-jabuticaba-hibrida-com-80-cm-de-altura.html </br></br>
+Nêspera: </br>
+https://www.atacadao.com.br/nespera-dois-cunhados-por-kg/ </br></br>
+Tamarindo: </br>
+https://feiradoceasa.com.br/tamarindo-premium-bandeja-300gr.html </br></br>
+Acerola: </br>
+https://saborizatti.com.br/produto/acerola-bandeja-200-g/ </br></br>
+Banana-prata: </br>
+https://saborizatti.com.br/produto/banana-prata-1-2-duzia/ </br></br>
+Manga: </br>
+https://www.orquidario4e.com.br/manga-palmer-muda/p/fruta00082 </br></br>
+Melão: </br>
+https://www.sosfeira.com.br/frutas/melao </br></br>
+Cereja: </br>
+https://www.casaspedro.com.br/004475cereja-marraschino-com-cabinho-100g/p </br></br>
+Damasco: </br>
+https://br.freepik.com/fotos-premium/damasco-doce-e-saudavel-no-fundo-branco-frutas-frescas_3026324.htm </br></br>
+Graviola: </br>
+https://www.extrafruti.com.br/portfolio-item/graviola/ </br></br>
+Lichia: </br>
+https://www.sementeorganica.com/produto/lichia-litchi-chinensis.html </br></br>
+Romã: </br>
+https://www.mundoecologia.com.br/plantas/pode-congelar-a-roma-como-guardar-e-conservar-a-fruta/ </br></br>
+Coco-Verde: </br>
+https://www.chicogranjeiro.eco.br/produtos/coco-verde-unidade/
+Mangostão:
+https://blog.mcientifica.com.br/
+
+<div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

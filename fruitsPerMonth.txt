@@ -1,0 +1,50 @@
+0 Janeiro:
+
+abacaxi, carambola, coco verde, figo, framboesa, fruta do conde, laranja-pera, mamão, maracujá, melancia, nectarina e uva.
+
+1 Fevereiro
+
+abacate, ameixa, carambola, coco verde, figo, fruta do conde, goiaba, jaca, maçã, pera, pêssego, seriguela e uva;
+
+2 Março:
+
+abacate, abacaxi, ameixa, banana-maçã, banana-nanica, coco verde, figo, fruta do conde, goiaba, jaca, limão, maçã, mamão, mangostão, nectarina, pera, uva, pêssego, seriguela e tangerina;
+
+3 Abril:
+
+abacate, ameixa, banana-maçã, caqui, cidra, jaca, kiwi, maçã, mamão, pera, tangerina e uva;
+
+4 Maio:
+
+abacate, banana-maçã, caqui, jaca, kiwi, maçã, pera, tangerina e uva;
+
+5 Junho:
+
+carambola, kiwi, laranja-lima, mangostão, marmelo, mexerica e tangerina;
+
+6 Julho:
+
+carambola, kiwi, laranja-lima, mexerica e tangerina;
+
+7 Agosto:
+
+banana-nanica, caju, carambola, kiwi, laranja-pera, lima, maçã, mamão, mexerica, morango e tangerina;
+
+8 Setembro:
+
+abacaxi, banana-nanica, caju, jabuticaba, laranja-lima, laranja-pera, maçã, mexerica, nêspera, tamarindo e tangerina;
+
+9 Outubro:
+
+abacaxi, acerola, banana-nanica, banana-prata, caju, manga, coco-verde, jabuticaba, laranja-pera, lima, maçã, mamão, nêspera e tangerina;
+
+10 Novembro:
+
+abacaxi, acerola, banana-nanica, banana-prata, caju, coco verde, framboesa, jaca, laranja-pera, maçã, mamão, manga, maracujá, melancia, melão, nectarina, pêssego e tangerina;
+
+11 Dezembro:
+
+abacaxi, ameixa, banana-prata, cereja, coco verde, damasco, figo, framboesa, graviola, kiwi, laranja-pera, limão, lichia, maçã, manga, maracujá, melancia, melão, nectarina, pêssego, romã e uva;
+
+
+

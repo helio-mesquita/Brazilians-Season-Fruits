@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bitter&display=swap" rel="stylesheet"> 
+    <title>Brazilians Season Fruits</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <header>
+            <div class="row brownBg">
+                <div class="col-sm-2">
+                    <img src="img/fruit.png" alt="Fruits Basket" class="imgHeader">
+                </div>
+                <div class="col-sm-8">
+                    <h1 class="fontBitter">Brazilians Season Fruits</h1>
+                </div>
+                <div class="col-sm-2 textRight">
+                    <a href="index.html">English</a> | <a href="index_br.html">Português(BR)</a>
+                </div>
+            </div>
+        </header> 
+        <div class="row">
+            <div class="col-sm-2"></div>
+            <div class="col-sm-8 greenBorder" id="general">
+                </br>
+                <h4>Figure out which fruits is on the season in Brazil by date, month or months period</h4>
+                </br>
+                <p>Select a option:</p>
+                <input type="radio" name="rdTime" id="rdDate"> <label for="rdDate">By date</label>
+                <input type="radio" name="rdTime" id="rdMonth"> <label for="rdMonth">By month</label>
+                <input type="radio" name="rdTime" id="rdPeriod"> <label for="rdPeriod">By months period</label>
+                </br></br></br>
+                <div id="byDate" class="noDisplay">
+                    <p>
+                        Select a day:
+                    </p> 
+                    <input type="date" id="inDate">
+                </br></br></br>
+                </div>
+                <div id="byMonth" class="noDisplay">
+                    <p>
+                        Select a month:
+                    </p>
+                    <select id="inMonth">
+                        <option value="null"></option>
+                        <option value="0">January</option>
+                        <option value="1">February</option>
+                        <option value="2">March</option>
+                        <option value="3">April</option>
+                        <option value="4">May</option>
+                        <option value="5">June</option>
+                        <option value="6">July</option>
+                        <option value="7">August</option>
+                        <option value="8">September</option>
+                        <option value="9">October</option>
+                        <option value="10">November</option>
+                        <option value="11">December</option>
+                    </select>
+                </br></br></br>
+                </div>
+                <div id="byPeriod" class="noDisplay">
+                    <p>
+                        Select the initial month:
+                    </p>
+                    <select id="inInitialMonth">
+                        <option value="null"></option>
+                        <option value="0">January</option>
+                        <option value="1">February</option>
+                        <option value="2">March</option>
+                        <option value="3">April</option>
+                        <option value="4">May</option>
+                        <option value="5">June</option>
+                        <option value="6">July</option>
+                        <option value="7">August</option>
+                        <option value="8">September</option>
+                        <option value="9">October</option>
+                        <option value="10">November</option>
+                        <option value="11">December</option>
+                    </select>
+                    </br></br>
+                    <p>
+                        Select the final month:
+                    </p>
+                    <select id="inFinalMonth">
+                        <option value="null"></option>
+                        <option value="0">January</option>
+                        <option value="1">February</option>
+                        <option value="2">March</option>
+                        <option value="3">April</option>
+                        <option value="4">May</option>
+                        <option value="5">June</option>
+                        <option value="6">July</option>
+                        <option value="7">August</option>
+                        <option value="8">September</option>
+                        <option value="9">October</option>
+                        <option value="10">November</option>
+                        <option value="11">December</option>
+                    </select>
+                </br></br></br>
+                </div>
+                <div id="outFruits" class="noDisplay"></div>
+            </div>
+            <div class="col-sm-2"></div>
+            <footer>
+                <div class="row">
+                    <div class="col-sm-12 brownBg">
+                        <p>
+                            Page created using BootStrap </br>
+                            Credits <a href="credits.html"> here</a> </br>
+                            Created by <a href="https://github.com/helio-mesquita">Hélio Mesquita</a> </br>
+                        </p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script src="js/accessFruits.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>

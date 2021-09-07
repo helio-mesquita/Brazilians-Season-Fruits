@@ -1,0 +1,13 @@
+.imgHeader {display: block; max-width: 50%; margin: auto; position:relative;} 
+h1 {vertical-align: middle; text-align: center; margin-top: 50px; margin-bottom: 50px;}
+h4 {text-align: center;}
+.brownBg {background-color: rgb(151, 255, 142);}
+footer {text-align: center; font-style: italic;}
+.textCenter {text-align: center;}
+.textRight {text-align: right;}
+.textLeft {text-align: left;}
+.noDisplay { display: none; }
+.show {display: inline;}
+.fontBitter {font-family: 'Bitter', serif; font-size: 300%;}
+.fruitFigure {float: left; font-weight: bold;}
+.fruitImg {margin: auto; display:block; max-width: 70%;}
